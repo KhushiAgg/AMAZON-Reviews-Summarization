@@ -1,4 +1,5 @@
 # AMAZON-Reviews-Summarization
+This project contributes to the partial fulfillment of the internship requirements offered by Open Weaver.
 
 * Real time scraping of product reviews using BeautifulSoup. 
 * Then performed text summarization using huggingface pipeline models to get essential information.
